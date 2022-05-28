@@ -1,6 +1,14 @@
 # meditation_app
 
-A new Flutter project.
+---ScreenShots & Videos---
+
+<img src="assets/1.png" width="250"> |  <img src="assets/2.png" width="250">  |  <img src="assets/3.png" width="250">
+
+
+
+https://user-images.githubusercontent.com/102043234/170824647-dbc3a281-392d-4297-8b84-492441e9abfe.mp4
+
+
 
 ## Getting Started
 
